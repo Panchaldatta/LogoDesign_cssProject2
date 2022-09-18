@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500&family=Josefin+Sans&family=Poppins:wght@200;300;400;500;600;700;800&family=Roboto:wght@300;400;500&display=swap');
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background: crimson;
+}
+span{
+  font-size: 7rem;
+  letter-spacing: 0.5rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-shadow: 7px 7px orange,
+  18px 18px black;
+  -webkit-text-fill-color:transparent;
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: white;
+  
+}
